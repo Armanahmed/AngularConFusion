@@ -44,7 +44,7 @@ export class ContactComponent implements OnInit {
   		contacttype: 'None',
   		message: ''
   	});
-  	this.feedbackFormDirective.resetForm();
+  	
   }
 
 }
